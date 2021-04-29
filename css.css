@@ -21,7 +21,7 @@ a {
 }
 
 .pad {
-    width: 50%;
+    width: 70%;
     margin-left: auto;
     margin-right: auto;
 }
@@ -29,8 +29,8 @@ a {
 h1 {
     color: #4c4c4c;
     font-family: 'Hind', 'Open Sans', sans-serif;
-    font-size: 40px;
-    font-weight: 700;
+    font-size: medium;
+    /* font-weight: 700; */
     text-transform: uppercase;
 }
 
@@ -49,4 +49,5 @@ p {
 code { 
     background-color: rgb(99, 99, 99);
     color: rgb(255, 255, 255);
+    word-wrap: break-word;
 }
